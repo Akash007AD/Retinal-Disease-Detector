@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+openai
+python-dotenv
+Pillow
+gtts
