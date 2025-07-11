@@ -27,6 +27,7 @@ A deep learning Streamlit web app to detect retinal diseases from OCT images, wi
 
 Clone this repository:
 git clone [https://github.com/Akash007AD/Retinal-Disease-Detector.git](https://github.com/Akash007AD/Retinal-Disease-Detector.git)
+
 cd retinal-detector
 
 Create & activate virtual environment (Python 3.11 recommended):
